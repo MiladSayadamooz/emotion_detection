@@ -1,6 +1,6 @@
 # emotion_detection
-Papers:
+# Papers:
  - A survey of state-of-the-art approaches for emotion recognition in text
-Tasks:
+# Tasks:
  - transfer persian model to english (Behdad)
  - persian model improving (Mehrdad)
