@@ -2,5 +2,5 @@
 # Papers:
  - A survey of state-of-the-art approaches for emotion recognition in text
 # Tasks:
- - transfer persian model to english (Behdad)
- - persian model improving (Mehrdad)
+ -  (Behdad)
+ - transfer persian model to english, run model on twitter with sample (Mehrdad)
