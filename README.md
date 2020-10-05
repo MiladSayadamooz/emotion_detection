@@ -7,5 +7,5 @@
 # Ideas:
  - change CNN to LSTM in Nueral Network
 # Tasks:
- - TEST PCA for dimensionality Reduction in sentence embedding(Behdad)
- - Setup Overleaf for Emotion Detecton, TEST Separation Index for dimensionality Reduction in sentence embedding(Mehrdad)
+ - TEST LDA for dimensionality Reduction in sentence embedding, write paper(Behdad)
+ - TEST Separation Index for dimensionality Reduction in sentence embedding, write paper(Mehrdad)
