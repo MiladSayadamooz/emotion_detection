@@ -7,5 +7,5 @@
 # Ideas:
  - change CNN to LSTM in Nueral Network
 # Tasks:
- - TEST LDA for dimensionality Reduction in sentence embedding, write paper(Behdad)
+ - TEST LDA for dimensionality Reduction in sentence embedding, write paper, set appointment with Dr.Kalhor(Behdad)
  - TEST Separation Index for dimensionality Reduction in sentence embedding, write paper(Mehrdad)
